@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola a todos! 👋<br><br>Soy Ignacio Pérez, un estudiante de programación chileno 🇨🇱 de 21 años. Apasionado por el desarrollo de software y la exploración de nuevas tecnologías.<br><br>En constante aprendizaje y buscando desafíos. Creo en la colaboración y la comunidad en el mundo del código abierto.<br><br>Cuando no programo, disfruto explorar los paisajes de Chile 🏞️ y compartir asados con amigos y familiares.<br><br>¡Hablemos de código y hagamos cosas geniales juntos! 💻✨
+¡Hola a todos! 👋<br><br>Soy Ignacio Pérez, un estudiante de programación chileno 🇨🇱 de 21 años. Apasionado por el desarrollo de software y la exploración de nuevas tecnologías.<br><br>En constante aprendizaje y buscando desafíos. Creo en la colaboración y la comunidad en el mundo del código abierto.<br><br>Cuando no programo, disfruto explorar los paisajes de Chile 🏞️ y compartir asados con amigos y familiares.<br><br>¡Hablemos de código y hagamos cosas geniales juntos! 💻✨...
 
 
 ## 🌐 Socials:
