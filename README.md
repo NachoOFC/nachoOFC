@@ -29,32 +29,48 @@
 ```typescript
 interface Developer {
   name: string;
+  age: number;
   location: string;
-  vibe: string;
+  education: string;
+  currentRole: string;
+  experience: string;
   passion: string[];
-  currentFocus: string;
   skills: {
     languages: string[];
     frameworks: string[];
+    backend: string[];
     tools: string[];
+  };
+  contact: {
+    phone: string;
+    email: string;
+    address: string;
   };
   motto: string;
   currentlyListening: string;
 }
 
 const ignacio: Developer = {
-  name: "Ignacio Pérez 🌊",
-  location: "Chile 🇨🇱",
-  vibe: "Smooth like ocean waves",
-  passion: ["Innovation", "Clean Code", "Digital Art"],
-  currentFocus: "Full Stack Development & Cloud Architecture",
+  name: "Ignacio Pérez Olavarría 🌊",
+  age: 22,
+  location: "Puerto Montt, Chile 🇨🇱",
+  education: "Ingeniería en Informática - Último año",
+  currentRole: "Desarrollador Web Jr. @ VOID IT SOLUTIONS SPA",
+  experience: "Desarrollo web con Vue.js, GraphQL y metodologías ágiles",
+  passion: ["Problem Solving", "Continuous Learning", "Web Development"],
   skills: {
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
-    frameworks: ["React", "Next.js", "Node.js", "Vue.js"],
-    tools: ["Docker", "AWS", "Git", "MongoDB", "Figma"]
+    languages: ["JavaScript", "Python", "SQL", "HTML", "CSS"],
+    frameworks: ["Vue.js", "React (básico)", "Bootstrap"],
+    backend: ["GraphQL", "Hasura", "MySQL", "Firebase"],
+    tools: ["Git", "GitHub", "Visual Studio Code", "Scrum"]
   },
-  motto: "Sailing through code like waves through the ocean 🌊",
-  currentlyListening: "Smooth beats that inspire creativity"
+  contact: {
+    phone: "+56 9 6766 8603",
+    email: "ignacioperezolavarria@gmail.com",
+    address: "Calle Alegría de Vivir #532, Puerto Montt"
+  },
+  motto: "Navegando el código como olas en el océano digital 🌊",
+  currentlyListening: "Smooth beats que inspiran creatividad mientras codifico"
 };
 ```
 
@@ -73,14 +89,14 @@ const ignacio: Developer = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-### 🌊 Frontend Mastery
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,bootstrap,sass,figma&theme=dark&perline=6" />
+### 🌊 Frontend Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap&theme=dark&perline=6" />
 
-### ⚡ Backend Power  
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,express,fastapi,mongodb,postgresql,firebase,graphql,prisma&theme=dark&perline=5" />
+### ⚡ Backend & Databases  
+<img src="https://skillicons.dev/icons?i=python,mysql,firebase,graphql&theme=dark&perline=4" />
 
-### 🚀 DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,git,github,gitlab,vscode,linux,nginx&theme=dark&perline=5" />
+### 🚀 Tools & Development
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
 
 </div>
 
@@ -137,7 +153,7 @@ const ignacio: Developer = {
 
 ---
 
-## <div align="center">🎯 Current Wave Focus</div>
+## <div align="center">🎯 Current Professional Wave</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
@@ -145,14 +161,13 @@ const ignacio: Developer = {
 
 ```mermaid
 graph TD
-    A[🌊 Learning Ocean] --> B[Cloud Architecture]
-    A --> C[AI/ML Integration] 
-    A --> D[Microservices]
-    A --> E[Mobile Development]
-    B --> F[AWS & Azure]
-    C --> G[TensorFlow & PyTorch]
-    D --> H[Docker & Kubernetes]
-    E --> I[React Native & Flutter]
+    A[🎓 Estudiante Ing. Informática] --> B[👨‍💻 Desarrollador Web Jr.]
+    B --> C[Vue.js Development]
+    B --> D[GraphQL Integration]
+    B --> E[Scrum Methodology]
+    C --> F[🚀 Component Design]
+    D --> G[🔄 API Integration]
+    E --> H[📋 Agile Planning]
     
     style A fill:#00d4ff,stroke:#0099cc,stroke-width:3px,color:#000
     style B fill:#0099cc,stroke:#007799,stroke-width:2px,color:#fff
@@ -160,6 +175,13 @@ graph TD
     style D fill:#0077aa,stroke:#005577,stroke-width:2px,color:#fff
     style E fill:#006699,stroke:#004466,stroke-width:2px,color:#fff
 ```
+
+### 💼 Experiencia Profesional Actual
+- **🏢 VOID IT SOLUTIONS SPA** (Enero 2025 - Mayo 2025)
+- **📍 Trabajo Remoto** desde Puerto Montt, Chile
+- **🛠️ Stack Principal:** Vue.js + GraphQL + Hasura
+- **👥 Metodología:** Scrum y desarrollo ágil
+- **📚 Responsabilidades:** Desarrollo de componentes, integración de APIs, documentación
 
 ---
 
@@ -169,9 +191,13 @@ graph TD
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="100">
 </div>
 
-<div align="center" style="background: linear-gradient(45deg, #00d4ff, #0099cc); padding: 20px; border-radius: 15px;">
-  <h3>🎧 Smooth Waves Audio Experience</h3>
-  <p><em>"Smooth beats that flow like ocean waves, inspiring creativity and focus"</em></p>
+<div align="center">
+  <h3>🎧 Audio Que Inspira El Código</h3>
+  <p><em>"Smooth beats que fluyen como olas mientras desarrollo, creando el ambiente perfecto para la concentración y creatividad"</em></p>
+  <a href="https://www.instagram.com/reels/audio/876787694497140/" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_Escuchar_Audio-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00d4ff" alt="Audio Instagram"/>
+  </a>
+  <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
@@ -192,11 +218,11 @@ graph TD
   <a href="https://www.instagram.com/nachoofc/" target="_blank">    
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=00d4ff" alt="Instagram"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:ignacioperezolavarria@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=00d4ff" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00d4ff" alt="LinkedIn"/>
+  <a href="tel:+56967668603" target="_blank">
+    <img src="https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&color=00d4ff" alt="Phone"/>
   </a>
 </div>
 
@@ -253,8 +279,9 @@ graph TD
   <p>
     <img src="https://komarev.com/ghpvc/?username=NachoOFC&label=Ocean%20Visitors&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
     <img src="https://img.shields.io/github/followers/NachoOFC?label=Wave%20Riders&style=for-the-badge&color=00d4ff" alt="Followers"/>
-    <img src="https://img.shields.io/badge/Status-Surfing%20Code%20Waves-00d4ff?style=for-the-badge" alt="Status"/>
-    <img src="https://img.shields.io/badge/Location-Chile%20🇨🇱-00d4ff?style=for-the-badge" alt="Location"/>
+    <img src="https://img.shields.io/badge/Status-Desarrollador%20Web%20Jr.-00d4ff?style=for-the-badge" alt="Status"/>
+    <img src="https://img.shields.io/badge/Location-Puerto%20Montt%2C%20Chile%20🇨🇱-00d4ff?style=for-the-badge" alt="Location"/>
+    <img src="https://img.shields.io/badge/Educación-Ing.%20Informática%20(Último%20año)-00d4ff?style=for-the-badge" alt="Education"/>
   </p>
 </div>
 
