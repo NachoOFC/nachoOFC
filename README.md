@@ -1,303 +1,344 @@
 # <div align="center">⚡ IGNACIO PÉREZ ⚡</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,8,18,25&height=220&section=header&text=Ignacio%20Pérez&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,45&height=280&section=header&text=Ignacio%20Pérez&fontSize=70&fontColor=fff&animation=fadeInOut&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=65&descAlign=50&descSize=22"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/NachoOFC/nachoOFC/blob/main/images/papi.jpg" alt="Ignacio Pérez" width="180" style="border-radius: 50%; border: 6px solid #00d4ff; box-shadow: 0 0 30px #00d4ff, 0 0 60px #0099cc; animation: pulse 2s infinite;">
+  <img src="https://github.com/NachoOFC/nachoOFC/blob/main/images/papi.jpg" alt="Ignacio Pérez" width="200" style="border-radius: 50%; border: 8px solid #ff6b35; box-shadow: 0 0 40px #ff6b35, 0 0 80px #ff3d00; animation: glow 2s ease-in-out infinite alternate;">
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=750&height=140&lines=🌊+Riding+the+Wave+of+Innovation;💻+Crafting+Digital+Experiences;🚀+From+Chile+to+the+World;⚡+Code%2C+Create%2C+Conquer!;🎯+Building+Tomorrow's+Technology" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=900&height=160&lines=🔥+Forging+the+Future+with+Code;💡+Innovation+Through+Every+Line;🚀+From+Puerto+Montt+to+the+Stars;⚡+Building+Digital+Dreams;🎯+Transforming+Ideas+into+Reality" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 </div>
 
 ---
 
-## <div align="center">🌊 Welcome to My Digital Ocean 🌊</div>
+## <div align="center">🌟 Welcome to My Code Universe 🌟</div>
 
-<img align="right" alt="Coding Ocean" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
-### 🧑‍💻 About Me
+### 🚀 About Me
 
-```typescript
-interface Developer {
-  name: string;
-  age: number;
-  location: string;
-  education: string;
-  currentRole: string;
-  experience: string;
-  passion: string[];
-  skills: {
-    languages: string[];
-    frameworks: string[];
-    backend: string[];
-    tools: string[];
-  };
-  contact: {
-    phone: string;
-    email: string;
-    address: string;
-  };
-  motto: string;
-  currentlyListening: string;
-}
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+</div>
 
-const ignacio: Developer = {
-  name: "Ignacio Pérez Olavarría 🌊",
-  age: 22,
-  location: "Puerto Montt, Chile 🇨🇱",
-  education: "Ingeniería en Informática - Último año",
-  currentRole: "Desarrollador Web Jr. @ VOID IT SOLUTIONS SPA",
-  experience: "Desarrollo web con Vue.js, GraphQL y metodologías ágiles",
-  passion: ["Problem Solving", "Continuous Learning", "Web Development"],
-  skills: {
-    languages: ["JavaScript", "Python", "SQL", "HTML", "CSS"],
-    frameworks: ["Vue.js", "React (básico)", "Bootstrap"],
-    backend: ["GraphQL", "Hasura", "MySQL", "Firebase"],
-    tools: ["Git", "GitHub", "Visual Studio Code", "Scrum"]
-  },
-  contact: {
-    phone: "+56 9 6766 8603",
-    email: "ignacioperezolavarria@gmail.com",
-    address: "Calle Alegría de Vivir #532, Puerto Montt"
-  },
-  motto: "Navegando el código como olas en el océano digital 🌊",
-  currentlyListening: "Smooth beats que inspiran creatividad mientras codifico"
-};
-```
+¡Hola! Soy **Ignacio Pérez Olavarría**, un apasionado desarrollador de 22 años desde las hermosas tierras de **Puerto Montt, Chile** 🇨🇱. Actualmente cursando mi último año de **Ingeniería en Informática**, donde cada día descubro nuevas formas de transformar ideas en código que cobra vida.
+
+<img align="left" alt="Developer working" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy me encuentro trabajando como **Desarrollador Web Jr. en VOID IT SOLUTIONS SPA**, donde cada proyecto es una nueva aventura. Mi especialidad está en **Vue.js y GraphQL**, tecnologías que me permiten crear experiencias web fluidas y dinámicas.
+
+Vivo en la **Calle Alegría de Vivir #532** (sí, ¡ese es realmente el nombre de mi calle! 😄), y creo firmemente que mi dirección refleja mi filosofía: encontrar alegría en cada línea de código que escribo.
+
+<br clear="left"/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfee.gif" width="200">
+</div>
+
+**🎯 Mi Misión:** Crear soluciones digitales que no solo funcionen perfectamente, sino que también inspiren y transformen la experiencia del usuario.
+
+**💡 Mi Pasión:** La resolución de problemas complejos, el aprendizaje continuo y la arquitectura de código limpio que otros desarrolladores puedan entender y mejorar.
+
+**📱 Contáctame:**
+- 📞 **Teléfono:** +56 9 6766 8603
+- 📧 **Email:** ignacioperezolavarria@gmail.com
+- 🏠 **Ubicación:** Calle Alegría de Vivir #532, Puerto Montt, Chile
 
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100">
 </div>
 
 ---
 
-## <div align="center">🛠️ Tech Arsenal</div>
+## <div align="center">🛠️ Tech Arsenal & Superpowers</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
+</div>
 
-### 🌊 Frontend Technologies
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap&theme=dark&perline=6" />
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-### ⚡ Backend & Databases  
-<img src="https://skillicons.dev/icons?i=python,mysql,firebase,graphql&theme=dark&perline=4" />
+### 🎨 Frontend Magic
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap&theme=dark&perline=3" />
 
-### 🚀 Tools & Development
+**Languages & Frameworks:**
+- JavaScript ES6+ ⚡
+- Vue.js (Advanced) 🚀
+- React (Learning) 📚
+- HTML5 & CSS3 🎨
+- Bootstrap 💎
+
+</td>
+<td align="center" width="50%">
+
+### ⚙️ Backend Power
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+</div>
+<img src="https://skillicons.dev/icons?i=python,mysql,firebase,graphql&theme=dark&perline=2" />
+
+**Backend & Databases:**
+- Python 🐍
+- GraphQL API 🔄
+- MySQL Database 🗄️
+- Firebase 🔥
+- Hasura Engine ⚡
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+### 🚀 Development Tools
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+</div>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
 
+**Workflow & Collaboration:**
+- Git Version Control 📝
+- GitHub Repositories 🐙
+- Visual Studio Code 💻
+- Scrum Methodology 🏃‍♂️
+- Agile Development 🔄
+
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
 </div>
 
 ---
 
-## <div align="center">📊 GitHub Ocean Stats</div>
+## <div align="center">📊 GitHub Stats & Analytics</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150">
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NachoOFC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
+        <img height="220em" src="https://github-readme-stats.vercel.app/api?username=NachoOFC&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&icon_color=ff6b35&border_radius=15" />
       </td>
       <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoOFC&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
+        <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoOFC&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&border_radius=15" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NachoOFC&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E" width="650" />
+  <img src="https://streak-stats.demolab.com?user=NachoOFC&theme=radical&hide_border=true&border_radius=20&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF3D00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=8B949E" width="700" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NachoOFC&bg_color=0d1117&color=00d4ff&line=0099cc&point=ffffff&area=true&hide_border=true&custom_title=Ignacio's%20Contribution%20Ocean" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NachoOFC&bg_color=0d1117&color=ff6b35&line=ff3d00&point=ffffff&area=true&hide_border=true&custom_title=Ignacio's%20Code%20Journey&radius=16" width="100%" />
 </div>
 
 ---
 
-## <div align="center">🏆 Digital Achievements</div>
+## <div align="center">🏆 Achievements & Trophies</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-f9e3b632-1c1b-43f6-98f0-681c7a66b284.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NachoOFC&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NachoOFC&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" width="100%" />
 </div>
 
 ---
 
-## <div align="center">🎯 Current Professional Wave</div>
+## <div align="center">💼 Professional Journey</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-f9e3b632-1c1b-43f6-98f0-681c7a66b284.gif" width="120">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 </div>
 
 ```mermaid
-graph TD
-    A[🎓 Estudiante Ing. Informática] --> B[👨‍💻 Desarrollador Web Jr.]
-    B --> C[Vue.js Development]
-    B --> D[GraphQL Integration]
-    B --> E[Scrum Methodology]
-    C --> F[🚀 Component Design]
-    D --> G[🔄 API Integration]
-    E --> H[📋 Agile Planning]
+graph LR
+    A[🎓 Computer Engineering Student] --> B[👨‍💻 Web Developer Jr.]
+    B --> C[Vue.js Expert]
+    B --> D[GraphQL Specialist]
+    B --> E[Scrum Master]
+    C --> F[🎨 UI/UX Implementation]
+    D --> G[🔄 API Architecture]
+    E --> H[📋 Project Management]
     
-    style A fill:#00d4ff,stroke:#0099cc,stroke-width:3px,color:#000
-    style B fill:#0099cc,stroke:#007799,stroke-width:2px,color:#fff
-    style C fill:#0088bb,stroke:#006688,stroke-width:2px,color:#fff
-    style D fill:#0077aa,stroke:#005577,stroke-width:2px,color:#fff
-    style E fill:#006699,stroke:#004466,stroke-width:2px,color:#fff
+    style A fill:#ff6b35,stroke:#ff3d00,stroke-width:3px,color:#fff
+    style B fill:#ff3d00,stroke:#e6340a,stroke-width:2px,color:#fff
+    style C fill:#d42c00,stroke:#bf2700,stroke-width:2px,color:#fff
+    style D fill:#bf2700,stroke:#a62200,stroke-width:2px,color:#fff
+    style E fill:#a62200,stroke:#8d1d00,stroke-width:2px,color:#fff
 ```
 
-### 💼 Experiencia Profesional Actual
-- **🏢 VOID IT SOLUTIONS SPA** (Enero 2025 - Mayo 2025)
-- **📍 Trabajo Remoto** desde Puerto Montt, Chile
-- **🛠️ Stack Principal:** Vue.js + GraphQL + Hasura
-- **👥 Metodología:** Scrum y desarrollo ágil
-- **📚 Responsabilidades:** Desarrollo de componentes, integración de APIs, documentación
+### 🔥 Current Professional Status
+- **🏢 Company:** VOID IT SOLUTIONS SPA (Enero 2025 - Mayo 2025)
+- **📍 Work Mode:** Remote from Puerto Montt, Chile
+- **🛠️ Tech Stack:** Vue.js + GraphQL + Hasura
+- **👥 Methodology:** Scrum & Agile Development
+- **🎯 Focus:** Component Development, API Integration, Documentation
 
 ---
 
-## <div align="center">🎵 Currently Vibing To</div>
+## <div align="center">🎵 Current Coding Vibes</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
 <div align="center">
-  <h3>🎧 Audio Que Inspira El Código</h3>
-  <p><em>"Smooth beats que fluyen como olas mientras desarrollo, creando el ambiente perfecto para la concentración y creatividad"</em></p>
+  <h3>🎧 Beats That Power My Code</h3>
+  <p><em>"Smooth rhythms flowing through the keyboard, creating the perfect atmosphere for innovation and focus"</em></p>
   <a href="https://www.instagram.com/reels/audio/876787694497140/" target="_blank">
-    <img src="https://img.shields.io/badge/🎵_Escuchar_Audio-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00d4ff" alt="Audio Instagram"/>
+    <img src="https://img.shields.io/badge/🎵_Listen_Now-FF6B35?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram Audio"/>
   </a>
   <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
 </div>
 
 ---
 
-## <div align="center">🌐 Connect With The Wave</div>
+## <div align="center">🌐 Connect & Collaborate</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="120">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfee.gif" width="100">
 </div>
 
 <div align="center">
   <a href="https://github.com/NachoOFC" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00d4ff" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/nachoofc/" target="_blank">    
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=00d4ff" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-FF6B35?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <a href="mailto:ignacioperezolavarria@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=00d4ff" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
   <a href="tel:+56967668603" target="_blank">
-    <img src="https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&color=00d4ff" alt="Phone"/>
+    <img src="https://img.shields.io/badge/WhatsApp-FF6B35?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
   </a>
 </div>
 
 ---
 
-## <div align="center">💡 Featured Ocean Projects</div>
+## <div align="center">🔥 Featured Projects</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257456-4d8d264c-7e78-4d83-9a1e-f719dc91707e.gif" width="100">
-</div>
-
-<div align="center">
-  <a href="https://github.com/NachoOFC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NachoOFC&repo=awesome-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
-  </a>
-  <a href="https://github.com/NachoOFC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NachoOFC&repo=cool-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
-  </a>
-</div>
-
----
-
-## <div align="center">📈 Contribution Snake Ocean</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NachoOFC/NachoOFC/output/github-contribution-grid-snake-dark.svg" alt="Snake swimming through my contributions" />
-</div>
-
----
-
-## <div align="center">💭 Ocean Wisdom</div>
-
-<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="120">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" />
+  <a href="https://github.com/NachoOFC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NachoOFC&repo=vue-portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&icon_color=ff6b35&border_radius=15" />
+  </a>
+  <a href="https://github.com/NachoOFC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NachoOFC&repo=graphql-api&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&icon_color=ff6b35&border_radius=15" />
+  </a>
 </div>
 
 ---
 
-## <div align="center">🌊 Wave Analytics</div>
+## <div align="center">🐍 Contribution Snake</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NachoOFC/NachoOFC/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
+
+---
+
+## <div align="center">💭 Daily Inspiration</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="120">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20poetry%20written%20in%20logic&author=Ignacio%20Pérez" />
+</div>
+
+---
+
+## <div align="center">📈 Profile Analytics</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfee.gif" width="120">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-f9e3b632-1c1b-43f6-98f0-681c7a66b284.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfee.gif" width="120">
 </div>
 
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=NachoOFC&label=Ocean%20Visitors&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/NachoOFC?label=Wave%20Riders&style=for-the-badge&color=00d4ff" alt="Followers"/>
-    <img src="https://img.shields.io/badge/Status-Desarrollador%20Web%20Jr.-00d4ff?style=for-the-badge" alt="Status"/>
-    <img src="https://img.shields.io/badge/Location-Puerto%20Montt%2C%20Chile%20🇨🇱-00d4ff?style=for-the-badge" alt="Location"/>
-    <img src="https://img.shields.io/badge/Educación-Ing.%20Informática%20(Último%20año)-00d4ff?style=for-the-badge" alt="Education"/>
+    <img src="https://komarev.com/ghpvc/?username=NachoOFC&label=Profile%20Views&color=ff6b35&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/NachoOFC?label=Followers&style=for-the-badge&color=ff6b35" alt="Followers"/>
+    <img src="https://img.shields.io/badge/Status-Web%20Developer%20Jr.-ff6b35?style=for-the-badge" alt="Status"/>
+    <img src="https://img.shields.io/badge/Location-Puerto%20Montt%2C%20Chile%20🇨🇱-ff6b35?style=for-the-badge" alt="Location"/>
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🚀 Let's Ride The Digital Wave Together! 🌊</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<div align="center">
-  <i>"Like waves in the ocean, code flows through creativity and innovation"</i>
-  <br><br>
+  <h2>🚀 Let's Build Something Amazing Together! 🔥</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,8,18,25&height=150&section=footer&animation=twinkling"/>
+  <i>"Every line of code is a step towards innovation"</i>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,45&height=180&section=footer&animation=fadeInOut"/>
 </div>
