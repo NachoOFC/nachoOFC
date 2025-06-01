@@ -79,14 +79,9 @@ Vivo en la **Calle Alegría de Vivir #532** (sí, ¡ese es realmente el nombre d
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
 </div>
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap&theme=dark&perline=3" />
-
-**Languages & Frameworks:**
-- JavaScript ES6+ ⚡
-- Vue.js (Advanced) 🚀
-- React (Learning) 📚
-- HTML5 & CSS3 🎨
-- Bootstrap 💎
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap&theme=dark&perline=3" />
+</div>
 
 </td>
 <td align="center" width="50%">
@@ -95,14 +90,9 @@ Vivo en la **Calle Alegría de Vivir #532** (sí, ¡ese es realmente el nombre d
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
 </div>
-<img src="https://skillicons.dev/icons?i=python,mysql,firebase,graphql&theme=dark&perline=2" />
-
-**Backend & Databases:**
-- Python 🐍
-- GraphQL API 🔄
-- MySQL Database 🗄️
-- Firebase 🔥
-- Hasura Engine ⚡
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,firebase,graphql&theme=dark&perline=2" />
+</div>
 
 </td>
 </tr>
@@ -114,14 +104,9 @@ Vivo en la **Calle Alegría de Vivir #532** (sí, ¡ese es realmente el nombre d
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
 </div>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
-
-**Workflow & Collaboration:**
-- Git Version Control 📝
-- GitHub Repositories 🐙
-- Visual Studio Code 💻
-- Scrum Methodology 🏃‍♂️
-- Agile Development 🔄
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
+</div>
 
 </div>
 
@@ -224,10 +209,23 @@ graph LR
 <div align="center">
   <h3>🎧 Beats That Power My Code</h3>
   <p><em>"Smooth rhythms flowing through the keyboard, creating the perfect atmosphere for innovation and focus"</em></p>
-  <a href="https://www.instagram.com/reels/audio/876787694497140/" target="_blank">
-    <img src="https://img.shields.io/badge/🎵_Listen_Now-FF6B35?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram Audio"/>
-  </a>
-  <br><br>
+  
+  <!-- Reproductor de Audio Integrado -->
+  <div style="background: linear-gradient(135deg, #ff6b35, #ff3d00); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(255, 107, 53, 0.3);">
+    <div style="display: flex; align-items: center; justify-content: center; gap: 15px; color: white;">
+      <div style="font-size: 24px;">🎵</div>
+      <div>
+        <strong>AURA - Coding Session</strong><br>
+        <small>Perfect vibes for deep focus</small>
+      </div>
+      <audio controls style="margin-left: 20px;">
+        <source src="https://www.instagram.com/reels/audio/876787694497140/" type="audio/mpeg">
+        Tu navegador no soporta el elemento de audio.
+      </audio>
+    </div>
+  </div>
+  
+  <br>
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
 </div>
 
