@@ -1,7 +1,7 @@
 # <div align="center">🚀 IGNACIO PÉREZ 🚀</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,30&height=200&section=header&text=Ignacio%20Pérez&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50"/>
+  <img src="https://github.com/NachoOFC/nachoOFC/blob/main/images/papi.jpg"/>
 </div>
 
 <div align="center">
