@@ -36,8 +36,6 @@
 
 Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy me encuentro trabajando como **Desarrollador Web Jr. en VOID IT SOLUTIONS SPA**, donde cada proyecto es una nueva aventura. Mi especialidad está en **Vue.js y GraphQL**, tecnologías que me permiten crear experiencias web fluidas y dinámicas.
 
-Vivo en la **Calle Alegría de Vivir #532** (sí, ¡ese es realmente el nombre de mi calle! 😄), y creo firmemente que mi dirección refleja mi filosofía: encontrar alegría en cada línea de código que escribo.
-
 <br clear="left"/>
 
 <div align="center">
