@@ -49,7 +49,7 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 **📱 Contáctame:**
 - 📞 **Teléfono:** +56 9 6766 8603
 - 📧 **Email:** ignacioperezolavarria@gmail.com
-- 🏠 **Ubicación:** Calle Alegría de Vivir #532, Puerto Montt, Chile
+- 🏠 **Ubicación:** Puerto Montt, Chile
 
 <br clear="right"/>
 
