@@ -49,7 +49,6 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 **💡 Mi Pasión:** La resolución de problemas complejos, el aprendizaje continuo y la arquitectura de código limpio que otros desarrolladores puedan entender y mejorar.
 
 **📱 Contáctame:**
-- 📞 **Teléfono:** +56 9 6766 8603
 - 📧 **Email:** ignacioperezolavarria@gmail.com
 - 🏠 **Ubicación:** Puerto Montt, Chile.
 
