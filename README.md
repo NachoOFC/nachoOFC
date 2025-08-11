@@ -216,12 +216,7 @@ graph LR
       <div>
         <strong>AURA - Coding Session</strong><br>
         <small>Perfect vibes for deep focus</small>
-      </div>
-      <audio controls style="margin-left: 20px;">
-        <source src="https://www.instagram.com/reels/audio/876787694497140/" type="audio/mpeg">
-        Tu navegador no soporta el elemento de audio.
-      </audio>
-    </div>
+    
   </div>
   
   <br>
