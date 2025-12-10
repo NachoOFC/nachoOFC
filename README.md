@@ -8,11 +8,7 @@
   <img src="https://github.com/NachoOFC/nachoOFC/blob/main/images/papi.jpg" alt="Ignacio Pérez" width="200" style="border-radius: 50%; border: 8px solid #ff6b35; box-shadow: 0 0 40px #ff6b35, 0 0 80px #ff3d00; animation: glow 2s ease-in-out infinite alternate;">
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=900&height=160&lines=🔥+Forging+the+Future+with+Code;💡+Innovation+Through+Every+Line;🚀+From+Puerto+Montt+to+the+Stars;⚡+Building+Digital+Dreams;🎯+Transforming+Ideas+into+Reality" alt="Typing SVG" />
-  </a>
-</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
