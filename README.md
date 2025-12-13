@@ -46,7 +46,7 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 
 **📱 Contáctame:**
 - 📧 **Email:** ignacioperezolavarria@gmail.com
-- 🏠 **Ubicación:** Puerto Montt, Chile.
+- 🏠 **Ubicación:** Puerto Varas, Chile.
 
 <br clear="right"/>
 
