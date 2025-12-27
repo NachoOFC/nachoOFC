@@ -39,11 +39,6 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfee.gif" width="200">
 </div>
-
-**🎯 Mi Misión:** Crear soluciones digitales que no solo funcionen perfectamente, sino que también inspiren y transformen la experiencia del usuario.
-
-**💡 Mi Pasión:** La resolución de problemas complejos, el aprendizaje continuo y la arquitectura de código limpio que otros desarrolladores puedan entender y mejorar.
-
 **📱 Contáctame:**
 - 📧 **Email:** ignacioperezolavarria@gmail.com
 - 🏠 **Ubicación:** Puerto Varas, Chile.
