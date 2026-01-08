@@ -154,7 +154,7 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 
 ---
 
-## <div align="center">💼 Professional Journey</div>
+## <div align="center">💼 Professional Journey :D</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
