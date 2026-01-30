@@ -42,7 +42,7 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 **📱 Contáctame:**
 - 📧 **Email:** ignacioperezolavarria@gmail.com
 - 🏠 **Ubicación:** Puerto Varas, Chile.
-- 📱 **instagram** nachoofc
+- 📱 **instagram** nachoofc o nachoofcdev
 
 <br clear="right"/>
 
