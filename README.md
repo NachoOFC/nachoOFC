@@ -114,9 +114,6 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NachoOFC&theme=radical&hide_border=true" />
-</div>
 
 <br />
 
