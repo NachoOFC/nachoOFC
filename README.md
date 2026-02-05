@@ -113,32 +113,26 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 <h2 align="center">📊 GitHub Stats & Analytics</h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" />
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="150" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" />
 </div>
 
-
+<br />
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="220em" src="https://github-readme-stats.vercel.app/api?username=NachoOFC&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&icon_color=ff6b35&border_radius=15" />
-      </td>
-      <td>
-        <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoOFC&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&border_radius=15" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=NachoOFC&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoOFC&layout=compact&theme=radical&hide_border=true" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NachoOFC&theme=radical&hide_border=true&border_radius=20&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF3D00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=8B949E" width="700" />
-</div>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NachoOFC&bg_color=0d1117&color=ff6b35&line=ff3d00&point=ffffff&area=true&hide_border=true&custom_title=Ignacio's%20Code%20Journey&radius=16" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=NachoOFC&theme=radical&hide_border=true" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NachoOFC&theme=github-dark&custom_title=Ignacio%27s%20Code%20Journey" />
 </div>
 
 ---
