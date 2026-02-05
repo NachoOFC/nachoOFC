@@ -112,18 +112,7 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 
 <h2 align="center">📊 GitHub Stats & Analytics</h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" />
-</div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NachoOFC&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoOFC&layout=compact&theme=radical&hide_border=true" height="180" />
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NachoOFC&theme=radical&hide_border=true" />
