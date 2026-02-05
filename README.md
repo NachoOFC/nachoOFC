@@ -123,20 +123,6 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 
 ---
 
-## <div align="center">🏆 Achievements & Trophies</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-f9e3b632-1c1b-43f6-98f0-681c7a66b284.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NachoOFC&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" width="100%" />
-</div>
-
----
-
 ## <div align="center">💼 Professional Journey :D</div>
 
 <div align="center">
