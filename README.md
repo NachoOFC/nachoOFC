@@ -112,11 +112,7 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 
 ## <div align="center">📊 GitHub Stats & Analytics</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150">
-</div>
+
 
 <div align="center">
   <table>
