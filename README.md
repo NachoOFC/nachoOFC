@@ -187,3 +187,171 @@ graph LR
 
 ---
 
+## <div align="center">⭐ Proyectos Destacados</div>
+
+| Proyecto | Descripción | Tech Stack | Links |
+|----------|-------------|-----------|-------|
+| 🎯 **Sistema de Monitoreo de Activos** | Plataforma web orientada al monitoreo y gestión de activos con generación de alertas y reportes en tiempo real. | ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) | [🔗 Demo](https://smtr-web.netlify.app/principal) \| [📝 Blog](https://nachoblog.hashnode.dev/smtr-construyendo-un-sistema-de-monitoreo-electrico-en-tiempo-real) |
+| 🎮 **Mini Juegos** | Colección de mini juegos web interactivos incluyendo el juego del gato y ahorcado. | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) | [🔗 Jugar](https://mini-juegos.netlify.app/) \| [📝 Blog](https://nachoblog.hashnode.dev/mini-juegos) |
+| 🕹️ **Videojuego Python** | Videojuego desarrollado con Python durante mis años de aprendizaje intensivo. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode) | [💻 Repo](https://github.com/NachoOFC/Videojuego) \| [🔗 Jugar](https://eljarl.netlify.app/) |
+| 📚 **Mi Blog** | Blog personal donde comparto experiencias, aprendizajes y tips sobre desarrollo web moderno. | ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode) | [📖 Visitar](https://nachoblog.hashnode.dev/) |
+| 🏨 **UST Reserve** | Aplicación web en desarrollo para gestión de reservas. | ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) | [🔗 Preview](https://ust-reserve.netlify.app/) |
+| 📦 **Alogis** | Proyecto de gestión logística en desarrollo. | ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) | [🔗 Preview](https://alogis.netlify.app/) |
+| 🌙 **Landing Page** | Landing page colaborativa enfocada en mostrar servicios y soluciones web. | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) | [🔗 Visitar](https://moon-systems.netlify.app/) |
+
+---
+
+
+---
+
+## <div align="center">⭐ Proyectos Destacados</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
+</div>
+
+### 🎯 Sistema de Monitoreo de Activos
+**Plataforma web orientada al monitoreo y gestión de activos con generación de alertas y reportes en tiempo real.**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
+
+<div align="center">
+  <a href="https://smtr-web.netlify.app/principal" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Demo-FF6B35?style=for-the-badge&logo=firefox" />
+  </a>
+  <a href="https://nachoblog.hashnode.dev/smtr-construyendo-un-sistema-de-monitoreo-electrico-en-tiempo-real" target="_blank">
+    <img src="https://img.shields.io/badge/Leer%20Blog-2962FF?style=for-the-badge&logo=hashnode" />
+  </a>
+</div>
+
+---
+
+### 🎮 Mini Juegos
+**Colección de mini juegos web interactivos incluyendo el juego del gato y ahorcado.**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+<div align="center">
+  <a href="https://mini-juegos.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Jugar%20Ahora-FF6B35?style=for-the-badge&logo=gamepad" />
+  </a>
+  <a href="https://nachoblog.hashnode.dev/mini-juegos" target="_blank">
+    <img src="https://img.shields.io/badge/Leer%20Blog-2962FF?style=for-the-badge&logo=hashnode" />
+  </a>
+</div>
+
+---
+
+### 🕹️ Videojuego Python
+**Videojuego desarrollado con Python durante años de aprendizaje intensivo.**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/NachoOFC/Videojuego" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://eljarl.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Jugar-FF6B35?style=for-the-badge&logo=firefox" />
+  </a>
+</div>
+
+---
+
+### 📚 Mi Blog
+**Blog personal donde comparto experiencias, aprendizajes y tips sobre desarrollo web moderno.**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</div>
+
+<div align="center">
+  <a href="https://nachoblog.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Leer%20Blog-FF6B35?style=for-the-badge&logo=firefox" />
+  </a>
+</div>
+
+---
+
+### 🏨 UST Reserve
+**Aplicación web en desarrollo para gestión de reservas universitarias.**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
+
+<div align="center">
+  <a href="https://ust-reserve.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Preview-FF6B35?style=for-the-badge&logo=firefox" />
+  </a>
+</div>
+
+---
+
+### 📦 Alogis
+**Proyecto de gestión logística en desarrollo con tecnologías modernas.**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
+
+<div align="center">
+  <a href="https://alogis.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Preview-FF6B35?style=for-the-badge&logo=firefox" />
+  </a>
+</div>
+
+---
+
+### 🌙 Landing Page
+**Landing page colaborativa enfocada en mostrar servicios y soluciones web modernas.**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</div>
+
+<div align="center">
+  <a href="https://moon-systems.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Landing-FF6B35?style=for-the-badge&logo=firefox" />
+  </a>
+</div>
+
+---
+
+
+---
+
+## <div align="center">⭐ Proyectos Destacados</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
+</div>
+
+| # | Proyecto | Descripción | Tech | Demo |
+|---|----------|-------------|------|------|
+| 1️⃣ | **Sistema de Monitoreo** | Plataforma web de monitoreo de activos con alertas y reportes en tiempo real | ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js) | [🔗](https://smtr-web.netlify.app/principal) |
+| 2️⃣ | **Mini Juegos** | Juegos web interactivos (gato, ahorcado y más) | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34C26?style=flat&logo=html5) | [🔗](https://mini-juegos.netlify.app/) |
+| 3️⃣ | **Videojuego Python** | Videojuego desarrollado con Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | [🔗](https://eljarl.netlify.app/) |
+| 4️⃣ | **Mi Blog** | Artículos técnicos sobre desarrollo web | ![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=hashnode) | [🔗](https://nachoblog.hashnode.dev/) |
+| 5️⃣ | **UST Reserve** | App de reservas (en desarrollo) | ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white) | [🔗](https://ust-reserve.netlify.app/) |
+| 6️⃣ | **Alogis** | Gestión logística (en desarrollo) | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js) | [🔗](https://alogis.netlify.app/) |
+| 7️⃣ | **Landing Page** | Landing colaborativa de servicios | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) | [🔗](https://moon-systems.netlify.app/) |
+
+---
+
