@@ -39,10 +39,21 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfee.gif" width="200">
 </div>
-**📱 Contáctame:**
-- 📧 **Email:** ignacioperezolavarria@gmail.com
-- 🏠 **Ubicación:** Puerto Varas, Chile.
-- 📱 **instagram** nachoofc o nachoofcdev
+
+<div align="center">
+  <a href="mailto:ignacioperezolavarria@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/nachoofc/" target="_blank">    
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://nachoportafolio.me/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portafolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ignacio-perez-olavarria/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
 <br clear="right"/>
 
@@ -195,16 +206,19 @@ graph LR
 
 <div align="center">
   <a href="https://github.com/NachoOFC" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/nachoofc/" target="_blank">    
-    <img src="https://img.shields.io/badge/Instagram-FF6B35?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:ignacioperezolavarria@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="tel:+56967668603" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-FF6B35?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
+  <a href="https://nachoportafolio.me/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portafolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ignacio-perez-olavarria/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
