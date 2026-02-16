@@ -201,26 +201,3 @@ graph LR
 
 ---
 
-
-
-
----
-
-## <div align="center">⭐ Proyectos Destacados</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
-</div>
-
-| # | Proyecto | Descripción | Tech | Demo |
-|---|----------|-------------|------|------|
-| 1️⃣ | **Sistema de Monitoreo** | Plataforma web de monitoreo de activos con alertas y reportes en tiempo real | ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js) | [🔗](https://smtr-web.netlify.app/principal) |
-| 2️⃣ | **Mini Juegos** | Juegos web interactivos (gato, ahorcado y más) | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34C26?style=flat&logo=html5) | [🔗](https://mini-juegos.netlify.app/) |
-| 3️⃣ | **Videojuego Python** | Videojuego desarrollado con Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | [🔗](https://eljarl.netlify.app/) |
-| 4️⃣ | **Mi Blog** | Artículos técnicos sobre desarrollo web | ![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=hashnode) | [🔗](https://nachoblog.hashnode.dev/) |
-| 5️⃣ | **UST Reserve** | App de reservas (en desarrollo) | ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white) | [🔗](https://ust-reserve.netlify.app/) |
-| 6️⃣ | **Alogis** | Gestión logística (en desarrollo) | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js) | [🔗](https://alogis.netlify.app/) |
-| 7️⃣ | **Landing Page** | Landing colaborativa de servicios | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) | [🔗](https://moon-systems.netlify.app/) |
-
----
-
