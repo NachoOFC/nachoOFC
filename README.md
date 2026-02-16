@@ -140,8 +140,7 @@ graph LR
 - **🎯 Focus:** Component Development, API Integration, Documentation
 
 ---
-
-## <div align="center">🎵 Current Coding Vibes</div>
+## <div align="center">🎵 Vibes de Codificación</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -150,20 +149,14 @@ graph LR
 </div>
 
 <div align="center">
-  <h3>🎧 Beats That Power My Code</h3>
-  <p><em>"Smooth rhythms flowing through the keyboard, creating the perfect atmosphere for innovation and focus"</em></p>
+  <h3>🎧 Ritmos que Potencian mi Código</h3>
+  <p><em>"Melodías suaves fluyendo por el teclado, creando la atmósfera perfecta para la innovación y el enfoque"</em></p>
   
-  <!-- Reproductor de Audio Integrado -->
-  <div style="background: linear-gradient(135deg, #ff6b35, #ff3d00); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(255, 107, 53, 0.3);">
-    <div style="display: flex; align-items: center; justify-content: center; gap: 15px; color: white;">
-      <div style="font-size: 24px;">🎵</div>
-      <div>
-        <strong>AURA - Coding Session</strong><br>
-        <small>Perfect vibes for deep focus</small>
-    
-  </div>
+  <a href="https://open.spotify.com/search/aura%20coding%20session" target="_blank">
+    <img src="https://img.shields.io/badge/Escuchar%20AURA-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
   
-  <br>
+  <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
 </div>
 
