@@ -100,22 +100,23 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 
 ---
 
-## <div align="center">💼 Trayectoria Profesional :D</div>
+## <div align="center">💼 Professional Journey :D</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212749695-f9e3b632-1c1b-43f6-98f0-681c7a66b284.gif" width="120">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 </div>
+
 ```mermaid
 graph LR
-    A[🎓 Estudiante Ingeniería Informática] --> B[👨‍💻 Desarrollador Web Jr.]
+    A[🎓 Computer Engineering Student] --> B[👨‍💻 Web Developer Jr.]
     B --> C[Vue.js Expert]
-    B --> D[GraphQL Especialista]
+    B --> D[GraphQL Specialist]
     B --> E[Scrum Master]
-    C --> F[🎨 Implementación UI/UX]
-    D --> G[🔄 Arquitectura de APIs]
-    E --> H[📋 Gestión de Proyectos]
+    C --> F[🎨 UI/UX Implementation]
+    D --> G[🔄 API Architecture]
+    E --> H[📋 Project Management]
     
     style A fill:#ff6b35,stroke:#ff3d00,stroke-width:3px,color:#fff
     style B fill:#ff3d00,stroke:#e6340a,stroke-width:2px,color:#fff
@@ -124,19 +125,13 @@ graph LR
     style E fill:#a62200,stroke:#8d1d00,stroke-width:2px,color:#fff
 ```
 
-### 🔥 Trayectoria Profesional
-- **🏢 Empresa:** VOID IT SOLUTIONS SPA (Enero 2025 - Mayo 2025)
-- **📍 Modalidad:** Remoto desde Puerto Montt, Chile
-- **🛠️ Stack Tecnológico:** Vue.js + GraphQL + Hasura
-- **👥 Metodología:** Desarrollo Scrum & Agile
-- **🎯 Enfoque:** Desarrollo de Componentes, Integración de APIs, Documentación
+### 🔥 Current Professional Status
+- **🏢 Company:** VOID IT SOLUTIONS SPA (Enero 2025 - Mayo 2025)
+- **📍 Work Mode:** Remote from Puerto Montt, Chile
+- **🛠️ Tech Stack:** Vue.js + GraphQL + Hasura
+- **👥 Methodology:** Scrum & Agile Development
+- **🎯 Focus:** Component Development, API Integration, Documentation
 
-### 💜 Lenguaje Favorito
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <p><strong>Python</strong> - Mi pasión por la programación 🐍</p>
-</div>
 ---
 ## <div align="center">🎵 Vibes de Codificación</div>
 
@@ -178,4 +173,3 @@ graph LR
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 </div>
-
