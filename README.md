@@ -107,19 +107,6 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Analytics</h2>
-
-
-
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NachoOFC&theme=github-dark&custom_title=Ignacio%27s%20Code%20Journey" />
-</div>
-
----
-
 ## <div align="center">💼 Professional Journey :D</div>
 
 <div align="center">
