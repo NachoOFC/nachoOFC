@@ -109,7 +109,7 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 
 <br>
 
-### 🔥 Estado Profesional Actual
+### 🔥 Experiencia Profesional
 - **🏢 Empresa:** VOID IT SOLUTIONS SPA (Enero 2025 - Mayo 2025)
 - **📍 Modalidad:** Remoto desde Puerto Montt, Chile
 - **🛠️ Stack Tecnológico:** Vue.js + GraphQL + Hasura
