@@ -103,8 +103,8 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-f9e3b632-1c1b-43f6-98f0-681c7a66b284.gif" width="120">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="120" />
+  <img src="https://skillicons.dev/icons?i=nuxt&theme=dark" width="100" />
 </div>
 ```mermaid
 graph LR
@@ -121,7 +121,7 @@ graph LR
     style C fill:#d42c00,stroke:#bf2700,stroke-width:2px,color:#fff
     style D fill:#bf2700,stroke:#a62200,stroke-width:2px,color:#fff
     style E fill:#a62200,stroke:#8d1d00,stroke-width:2px,color:#fff
-
+``
 
 ### 🔥 Estado Profesional Actual
 - **🏢 Empresa:** VOID IT SOLUTIONS SPA (Enero 2025 - Mayo 2025)
