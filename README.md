@@ -1,5 +1,3 @@
-# <div align="center">⚡ IGNACIO PÉREZ ⚡</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,45&height=280&section=header&text=Ignacio%20Pérez&fontSize=70&fontColor=fff&animation=fadeInOut&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=65&descAlign=50&descSize=22"/>
 </div>
@@ -10,9 +8,6 @@
 
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
-</div>
 
 ---
 
@@ -200,4 +195,9 @@ graph LR
 | 🌙 **Landing Page** | Landing page colaborativa enfocada en mostrar servicios y soluciones web. | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) | [🔗 Visitar](https://moon-systems.netlify.app/) |
 
 ---
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+</div>
 
