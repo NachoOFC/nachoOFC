@@ -121,7 +121,10 @@ graph LR
     style C fill:#d42c00,stroke:#bf2700,stroke-width:2px,color:#fff
     style D fill:#bf2700,stroke:#a62200,stroke-width:2px,color:#fff
     style E fill:#a62200,stroke:#8d1d00,stroke-width:2px,color:#fff
-``
+```
+```
+
+<br>
 
 ### 🔥 Estado Profesional Actual
 - **🏢 Empresa:** VOID IT SOLUTIONS SPA (Enero 2025 - Mayo 2025)
