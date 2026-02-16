@@ -53,7 +53,7 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 <br clear="right"/>
 ---
 
-## <div align="center">🛠️ Tech Arsenal & Superpowers</div>
+## <div align="center">🛠️ Arsenal Tecnológico & Superpotencias</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
@@ -68,7 +68,7 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwindcss,nuxt,astro&theme=dark&perline=4" />
 </div>
 
 </td>
@@ -79,7 +79,7 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,firebase,graphql&theme=dark&perline=2" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,firebase,graphql,java&theme=dark&perline=3" />
 </div>
 
 </td>
@@ -87,13 +87,13 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 </table>
 
 <div align="center">
-  
-### 🚀 Development Tools
+
+### 🚀 Herramientas de Desarrollo
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,php&theme=dark&perline=5" />
 </div>
 
 </div>
