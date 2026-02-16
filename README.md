@@ -106,23 +106,6 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
   <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="120" />
   <img src="https://skillicons.dev/icons?i=nuxt&theme=dark" width="100" />
 </div>
-```mermaid
-graph LR
-    A[🎓 Estudiante Ingeniería Informática] --> B[👨‍💻 Desarrollador Web Jr.]
-    B --> C[Vue.js Expert]
-    B --> D[GraphQL Especialista]
-    B --> E[Scrum Master]
-    C --> F[🎨 Implementación UI/UX]
-    D --> G[🔄 Arquitectura de APIs]
-    E --> H[📋 Gestión de Proyectos]
-    
-    style A fill:#ff6b35,stroke:#ff3d00,stroke-width:3px,color:#fff
-    style B fill:#ff3d00,stroke:#e6340a,stroke-width:2px,color:#fff
-    style C fill:#d42c00,stroke:#bf2700,stroke-width:2px,color:#fff
-    style D fill:#bf2700,stroke:#a62200,stroke-width:2px,color:#fff
-    style E fill:#a62200,stroke:#8d1d00,stroke-width:2px,color:#fff
-```
-```
 
 <br>
 
