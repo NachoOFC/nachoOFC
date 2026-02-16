@@ -116,14 +116,13 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 - **👥 Metodología:** Desarrollo Scrum & Agile
 - **🎯 Enfoque:** Desarrollo de Componentes, Integración de APIs, Documentación
 
+---
 ### 💜 Lenguaje Favorito
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
   <p><strong>Python</strong> - Mi pasión por la programación 🐍</p>
 </div>
-
----
 
 ---
 ## <div align="center">🎵 Vibes de Codificación</div>
