@@ -51,6 +51,7 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
 </div>
 
 <br clear="right"/>
+
 ---
 
 ## <div align="center">🛠️ Arsenal Tecnológico & Superpotencias</div>
