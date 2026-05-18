@@ -43,7 +43,7 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://nachoportafolio.me/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portafolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio"/>
+  <img src="https://img.shields.io/badge/-Portafolio-00AD9F?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ignacio-perez-olavarria/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
