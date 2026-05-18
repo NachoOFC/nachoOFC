@@ -27,7 +27,7 @@ Hola!!! Soy **Ignacio Pérez Olavarría**, un apasionado desarrollador de 23 añ
 <img align="left" alt="Developer working" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 
-Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **Desarrollador Web Jr**. Mi especialidad está en **Vue.js, Nuxt y PostgreSql**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. experto en github
+Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **Desarrollador Web Jr**. Mi especialidad está en **Vue.js, Nuxt y PostgreSql**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en github**
 
 <br clear="left"/>
 
