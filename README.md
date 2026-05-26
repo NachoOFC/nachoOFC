@@ -151,9 +151,6 @@ Mi historia comenzó con una simple curiosidad por entender cómo funcionan las 
   <img src="https://streak-stats.demolab.com?user=NachoOFC&locale=es&theme=tokyonight&date_format=j%20M%5B%20Y%5D&dates=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80" alt="Racha de contribuciones" />
 </div>
 
-<div align="center">
-  <img src="https://ghchart.ssh.surf/NachoOFC" alt="Contribuciones GitHub" />
-</div>
 
 ---
 
