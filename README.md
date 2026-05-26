@@ -7,8 +7,10 @@
 </div>
 
 <div align="center">
-  [![GitHub followers](https://img.shields.io/github/followers/NachoOFC?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/NachoOFC?tab=followers)
-  ![Profile Views](https://komarev.com/ghpvc/?username=NachoOFC&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
+  <a href="https://github.com/NachoOFC?tab=followers">
+    <img src="https://img.shields.io/github/followers/NachoOFC?style=for-the-badge&color=00bfff&label=Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=NachoOFC&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views" />
 </div>
 
 ---
