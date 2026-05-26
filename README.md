@@ -6,9 +6,10 @@
   <img src="https://github.com/NachoOFC/nachoOFC/blob/main/images/papi.jpg" alt="Ignacio Pérez" width="200" style="border-radius: 50%; border: 8px solid #ff6b35; box-shadow: 0 0 40px #ff6b35, 0 0 80px #ff3d00; animation: glow 2s ease-in-out infinite alternate;">
 </div>
 
-[![GitHub followers](https://img.shields.io/github/followers/NachoOFC?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/NachoOFC?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=NachoOFC&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
-
+<div align="center">
+  [![GitHub followers](https://img.shields.io/github/followers/NachoOFC?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/NachoOFC?tab=followers)
+  ![Profile Views](https://komarev.com/ghpvc/?username=NachoOFC&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
+</div>
 
 ---
 
