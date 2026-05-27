@@ -25,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 </div>
 
-Hola!!! Soy **Ignacio Pérez Olavarría**, un apasionado desarrollador de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de  **Ingeniería en Informática UST**,Actualmente trabajo para **AST Networks** <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/AST-Logo.png" alt="AST Networks" width="80" style="vertical-align:middle"/>
+Hola!!! Soy **Ignacio Pérez Olavarría**, un apasionado desarrollador de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de  **Ingeniería en Informática UST**,Actualmente trabajo en **Puerto Montt* para **AST Networks** <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/AST-Logo.png" alt="AST Networks" width="80" style="vertical-align:middle"/> como programador para el area i+d
 
  Mi lenguaje de programacion favorito: python, puedes visitar mi portafolio https://nachoportafolio.me/ o mi blog https://nachoblog.hashnode.dev/
 
