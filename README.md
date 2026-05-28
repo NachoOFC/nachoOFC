@@ -13,24 +13,22 @@
 </div>
 
 ---
-
 ## <div align="center">🌟 Bienvenido a mi perfil gitHub 🌟</div>
 
-<img align="right" alt="Nacho animado" width="400" src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png"/>
+<img align="right" alt="Nacho animado" width="350" src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png"/>
 
 ### Sobre mí <3
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-</div>
+Hola!!! Soy **Ignacio Pérez Olavarría**, un apasionado desarrollador Semi-Senior **SSR** de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de **Ingeniería en Informática UST**, actualmente trabajo en **Puerto Montt** para **AST Networks** <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/AST-Logo.png" alt="AST Networks" width="80" style="vertical-align:middle"/> como programador para el área i+d.
 
-Hola!!! Soy **Ignacio Pérez Olavarría**, un apasionado desarrollador Semi-Senior **SSR** de 23 años , desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de  **Ingeniería en Informática UST**,Actualmente trabajo en **Puerto Montt* para **AST Networks** <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/AST-Logo.png" alt="AST Networks" width="80" style="vertical-align:middle"/> como programador para el area i+d
+Mi lenguaje de programación favorito es Python. Puedes visitar mi [portafolio](https://nachoportafolio.me/) o mi [blog](https://nachoblog.hashnode.dev/).
 
-Mi lenguaje de programacion favorito: python, puedes visitar mi portafolio https://nachoportafolio.me/ o mi blog https://nachoblog.hashnode.dev/
+<br clear="right"/>
 
-<img align="left" alt="Nacho feliz" width="250" src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/feliz.png"/>
+---
 
-Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **Desarrollador Web Jr**. Mi especialidad está en **Vue.js, Nuxt y PostgreSql**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en github**
+| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/feliz.png" width="180"/> | <br/><br/> Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **Desarrollador Web Jr**. Mi especialidad está en **Vue.js, Nuxt y PostgreSQL**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en GitHub**. |
+|---|---|
 
 <br clear="left"/>
 
