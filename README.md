@@ -16,7 +16,7 @@
 
 ## <div align="center">🌟 Bienvenido a mi perfil gitHub 🌟</div>
 
-<img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" alt="Nacho animado" width="400" src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png"/>
 
 ### Sobre mí <3
 
@@ -26,11 +26,9 @@
 
 Hola!!! Soy **Ignacio Pérez Olavarría**, un apasionado desarrollador Semi-Senior **SSR** de 23 años , desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de  **Ingeniería en Informática UST**,Actualmente trabajo en **Puerto Montt* para **AST Networks** <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/AST-Logo.png" alt="AST Networks" width="80" style="vertical-align:middle"/> como programador para el area i+d
 
- Mi lenguaje de programacion favorito: python, puedes visitar mi portafolio https://nachoportafolio.me/ o mi blog https://nachoblog.hashnode.dev/
+Mi lenguaje de programacion favorito: python, puedes visitar mi portafolio https://nachoportafolio.me/ o mi blog https://nachoblog.hashnode.dev/
 
-
-<img align="left" alt="Developer working" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
+<img align="left" alt="Nacho feliz" width="250" src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/feliz.png"/>
 
 Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **Desarrollador Web Jr**. Mi especialidad está en **Vue.js, Nuxt y PostgreSql**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en github**
 
