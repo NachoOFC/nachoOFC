@@ -15,19 +15,13 @@
 ---
 ## <div align="center">🌟 Bienvenido a mi perfil gitHub 🌟</div>
 
-<img align="right" alt="Nacho animado" width="350" src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png"/>
 
-### Sobre mí <3
-
-Hola!!! Soy **Ignacio Pérez Olavarría**, un apasionado desarrollador Semi-Senior **SSR** de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de **Ingeniería en Informática UST**, actualmente trabajo en **Puerto Montt** para **AST Networks** <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/AST-Logo.png" alt="AST Networks" width="80" style="vertical-align:middle"/> como programador para el área i+d.
-
-Mi lenguaje de programación favorito es Python. Puedes visitar mi [portafolio](https://nachoportafolio.me/) o mi [blog](https://nachoblog.hashnode.dev/).
-
-<br clear="right"/>
+| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png" width="300"/> | ### Sobre mí <3 <br/><br/> Hola!!! Soy **Ignacio Pérez Olavarría**, un apasionado desarrollador Semi-Senior **SSR** de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de **Ingeniería en Informática UST**, actualmente trabajo en **Puerto Montt** para **AST Networks** como programador para el área i+d. <br/><br/> Mi lenguaje de programación favorito es Python. Puedes visitar mi [portafolio](https://nachoportafolio.me/) o mi [blog](https://nachoblog.hashnode.dev/). |
+|:---:|---|
 
 ---
 
-| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/feliz.png" width="180"/> | <br/><br/> Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **Desarrollador Web Jr**. Mi especialidad está en **Vue.js, Nuxt y PostgreSQL**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en GitHub**. |
+| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/feliz.png" width="300"/> | <br/><br/> Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **Desarrollador Web Jr**. Mi especialidad está en **Vue.js, Nuxt y PostgreSQL**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en GitHub**. |
 |---|---|
 
 <br clear="left"/>
