@@ -131,7 +131,7 @@
 
 <div align="center">
   <h3>🎧 Ritmos que Potencian mi Código</h3>
-  <p><em>"Melodías suaves fluyendo por el teclado, creando la atmósfera perfecta para la innovación y el enfoque"</em></p>
+  
   
   <a href="https://open.spotify.com/search/aura%20coding%20session" target="_blank">
     <img src="https://img.shields.io/badge/Escuchar%20AURA-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
