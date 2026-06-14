@@ -16,7 +16,7 @@
 ## <div align="center">🌟 Bienvenido a mi perfil gitHub 🌟</div>
 
 
-| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png" width="300"/> | ### Sobre mí <3 <br/><br/> Hola!!! Soy **Ignacio Pérez Olavarría**, un apasionado desarrollador Semi-Senior **SSR** de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de **Ingeniería en Informática del Instituto Profesional Santo Tomás**, actualmente trabajo en **Puerto Montt** para **AST Networks** como programador para el área i+d. <br/><br/> Mi lenguaje de programación favorito es Python. Puedes visitar mi [portafolio](https://nachoportafolio.me/) o mi [blog](https://nachoblog.hashnode.dev/). |
+| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png" width="300"/> | ### Sobre mí <3 <br/><br/> Hola!!! Soy **Ignacio Pérez Olavarría**, un apasionado desarrollador Semi-Senior **SSR** de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de **Ingeniería en Informática del Instituto Profesional Santo Tomás**, actualmente trabajo en **Puerto Montt** para **AST Networks** como programador para el área i+d+i: investigacion desarrollo e innovacion. <br/><br/> Mi lenguaje de programación favorito es Python. Puedes visitar mi [portafolio](https://nachoportafolio.me/) o mi [blog](https://nachoblog.hashnode.dev/). |
 |:---:|---|
 
 ---
