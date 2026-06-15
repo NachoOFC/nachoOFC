@@ -109,7 +109,7 @@
 - **🏢 Empresa:** VOID IT SOLUTIONS SPA (Enero 2025 - Mayo 2025)
 - **📍 Modalidad:** Remoto desde Puerto Montt, Chile
 - **🛠️ Stack Tecnológico:** Vue.js + GraphQL + Hasura
-- **👥 Metodología:** Desarrollo Scrum
+- **👥 Metodología:** Desarrollo Scrum (Por Sprints)
 - **🎯 Enfoque:** Desarrollo de Componentes, Integración de APIs, Documentación
 
 ---
