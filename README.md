@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/NachoOFC/nachoOFC/blob/main/images/papi.jpg" alt="Ignacio Pérez" width="200" style="border-radius: 50%; border: 8px solid #ff6b35; box-shadow: 0 0 40px #ff6b35, 0 0 80px #ff3d00; animation: glow 2s ease-in-out infinite alternate;">
+  <img src="https://github.com/NachoOFC/nachoOFC/blob/main/images/yo.jpg" alt="Ignacio Pérez" width="200" style="border-radius: 50%; border: 8px solid #ff6b35; box-shadow: 0 0 40px #ff6b35, 0 0 80px #ff3d00; animation: glow 2s ease-in-out infinite alternate;">
 </div>
 
 <div align="center">
