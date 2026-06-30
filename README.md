@@ -16,12 +16,12 @@
 ## <div align="center">🌟 Bienvenido a mi perfil gitHub 🌟</div>
 
 
-| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png" width="300"/> | ### Sobre mí <3 <br/><br/> Hola!!! Soy **Ignacio Andrés Pérez Olavarría**, un apasionado desarrollador Semi-Senior **SSR** de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de **Ingeniería en Informática del Instituto Profesional Santo Tomás**, actualmente trabajo en **Puerto Montt** para **AST Networks** como programador para el área i+d+i: investigación desarrollo e innovación. <br/><br/> Mi lenguaje de programación favorito es Python. Puedes visitar mi [portafolio](https://nachoportafolio.me/) o mi [blog](https://nachoblog.hashnode.dev/). |
+| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png" width="300"/> | ### Sobre mí <3 <br/><br/> Hola!!! Soy **Ignacio Andrés Pérez Olavarría**, un apasionado desarrollador de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de **Ingeniería en Informática del Instituto Profesional Santo Tomás**, actualmente trabajo en **Puerto Montt** para **AST Networks** como programador para el área i+d+i: investigación desarrollo e innovación. <br/><br/> Mi lenguaje de programación favorito es Python. Puedes visitar mi [portafolio](https://nachoportafolio.me/) o mi [blog](https://nachoblog.hashnode.dev/). |
 |:---:|---|
 
 ---
 
-| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/feliz.png" width="300"/> | <br/><br/> Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **Desarrollador Web SSR**. Mi especialidad está en **Vue.js, Nuxt y PostgreSQL**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en GitHub**, Si te gusta mi trabajo, ¡déjame una ⭐ en este repositorio!. |
+| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/feliz.png" width="300"/> | <br/><br/> Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **ingeniero informático **. Mi especialidad está en **Vue.js, Nuxt y PostgreSQL**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en GitHub**, Si te gusta mi trabajo, ¡déjame una ⭐ en este repositorio!. |
 |---|---|
 
 ---
