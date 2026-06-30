@@ -24,6 +24,9 @@
 | <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/feliz.png" width="300"/> | <br/><br/> Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **Desarrollador Web SSR**. Mi especialidad está en **Vue.js, Nuxt y PostgreSQL**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en GitHub**, Si te gusta mi trabajo, ¡déjame una ⭐ en este repositorio!. |
 |---|---|
 
+---
+### 💖 Sponsoring
+<img src="https://github.com/midudev.png" width="40" style="border-radius:50%"/> **midudev**
 <br clear="left"/>
 
 <div align="center">
