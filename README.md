@@ -29,7 +29,7 @@
 <img src="https://github.com/midudev.png" width="40" style="border-radius:50%"/> **midudev**
 <br clear="left"/>
 
-<img src="https://github-profile-achievements-badge.-suvaji.vercel.app/api/achievements?username=NachoOFC" width="100%" />
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfee.gif" width="200">
