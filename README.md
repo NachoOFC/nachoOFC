@@ -101,7 +101,7 @@
 </div>
 
 ---
-## <div align="center">💼 Trayectoria Profesional :D</div>
+## <div align="center">💼 Trayectoria Profesional</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -123,7 +123,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <p><strong>Python</strong> - Mi pasión por la programación 🐍</p>
+  <p><strong>Python</strong> - Mi pasión por la programación 🐍, por su versatilidad y que se maneja muy bien con machine learning y mineria de datos</p>
 </div>
 
 ---
