@@ -25,11 +25,8 @@
 |---|---|
 
 ---
-<div align="center">
 ### 💖 Sponsoring
 <img src="https://github.com/midudev.png" width="40" style="border-radius:50%"/> **midudev**
-
-<div align="center">
 <br clear="left"/>
 
 <div align="center">
