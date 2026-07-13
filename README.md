@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NachoOFC&query=followers&style=for-the-badge&color=00bfff&label=Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NachoOFC&query=$.followers&style=for-the-badge&color=00bfff&label=Followers" />
   <img src="https://komarev.com/ghpvc/?username=NachoOFC&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views" />
 </div>
 
