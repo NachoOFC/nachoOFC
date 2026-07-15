@@ -126,24 +126,25 @@
 ---
 ## <div align="center">🎵 Ritmo de Código</div>
 <div align="center">
-  <!-- Ecualizadores visuales que dan el efecto estético de movimiento -->
-  <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/output/snake.svg" width="100">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150">
-  <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/output/snake.svg" width="100">
+  <!-- Ecualizadores visuales animados -->
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="100">
+  <img src="https://media.giphy.com/media/xUOxfjsW9fWPqEwJ9K/giphy.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="100">
 </div>
 <div align="center">
   <h3>🎧 Banda Sonora de Desarrollo</h3>
-  <!-- WIDGET REAL-TIME: Muestra tu canción actual (Reemplaza "tu-usuario-de-spotify") -->
-  <a href="https://open.spotify.com/user/TU-USUARIO-DE-SPOTIFY" target="_blank">
-    <img src="https://novatorem-tu-usuario.vercel.app/api/spotify" alt="Escuchando ahora mismo en Spotify" width="350"/>
+  <!-- WIDGET REAL-TIME: reemplaza con TU URL de Vercel una vez desplegado -->
+  <a href="https://open.spotify.com/user/TU-USUARIO-SPOTIFY" target="_blank">
+    <img src="https://novatorem-TU-PROYECTO.vercel.app/api/spotify" alt="Escuchando ahora mismo en Spotify" width="350"/>
   </a>
   
   <br><br>
-  <!-- Botón de acceso directo a tu sesión preferida -->
-  <a href="https://open.spotify.com/user/TU-USUARIO-DE-SPOTIFY" target="_blank">
+  <a href="https://open.spotify.com/user/TU-USUARIO-SPOTIFY" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </div>
+
+
 ## 🔥 Racha de contribuciones
 
 <div align="center">
