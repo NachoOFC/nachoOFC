@@ -124,16 +124,16 @@
 </div>
 
 ---
-## <div align="center">🎵 Ritmo de Código</div>
+## <div align="center">🎵 Musica de Codificación</div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="100">
-  <img src="https://media.giphy.com/media/xUOxfjsW9fWPqEwJ9K/giphy.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 <div align="center">
-  <h3>🎧 Banda Sonora de Desarrollo</h3>
-  <a href="https://open.spotify.com/search/AURA%20NOMBRE-DEL-AUTOR" target="_blank">
-    <img src="https://img.shields.io/badge/AURA%20--%20NOMBRE_DEL_AUTOR-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="AURA - Nombre del autor"/>
+  <h3>🎧 Ritmos que Potencian mi Código</h3>
+  <a href="https://open.spotify.com/search/AURA" target="_blank">
+    <img src="https://img.shields.io/badge/AURA-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </div>
 
