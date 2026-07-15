@@ -124,24 +124,31 @@
 </div>
 
 ---
-## <div align="center">🎵 Ritmo de Código/div>
+## <div align="center">🎵 Ritmo de Código</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <!-- Ecualizadores visuales que dan el efecto estético de movimiento -->
+  <img src="https://githubusercontent.com" width="100">
+  <img src="https://githubusercontent.com" width="150">
+  <img src="https://githubusercontent.com" width="100">
 </div>
 
 <div align="center">
-  <h3>🎧 Ritmos que Potencian mi Código</h3>
-  
-  
-  <a href="https://open.spotify.com/search/aura%20coding%20session" target="_blank">
-    <img src="https://img.shields.io/badge/Escuchar%20AURA-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <h3>🎧 Banda Sonora de Desarrollo</h3>
+
+  <!-- WIDGET REAL-TIME: Muestra tu canción actual (Reemplaza "tu-usuario-de-spotify") -->
+  <a href="https://open.spotify.com/collection/tracks" target="_blank">
+    <img src="https://vercel.app" alt="Escuchando ahora mismo en Spotify" width="350"/>
   </a>
   
-  
+  <br><br>
+
+  <!-- Botón de acceso directo a tu sesión preferida -->
+  <a href="https://spotify.com" target="_blank">
+    <img src="https://shields.io" />
+  </a>
 </div>
+
 
 ## 🔥 Racha de contribuciones
 
