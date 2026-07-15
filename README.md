@@ -126,24 +126,16 @@
 ---
 ## <div align="center">🎵 Ritmo de Código</div>
 <div align="center">
-  <!-- Ecualizadores visuales animados -->
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="100">
   <img src="https://media.giphy.com/media/xUOxfjsW9fWPqEwJ9K/giphy.gif" width="150">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="100">
 </div>
 <div align="center">
   <h3>🎧 Banda Sonora de Desarrollo</h3>
-  <!-- WIDGET REAL-TIME: reemplaza con TU URL de Vercel una vez desplegado -->
-  <a href="https://open.spotify.com/user/TU-USUARIO-SPOTIFY" target="_blank">
-    <img src="https://novatorem-TU-PROYECTO.vercel.app/api/spotify" alt="Escuchando ahora mismo en Spotify" width="350"/>
-  </a>
-  
-  <br><br>
-  <a href="https://open.spotify.com/user/TU-USUARIO-SPOTIFY" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://open.spotify.com/search/AURA%20NOMBRE-DEL-AUTOR" target="_blank">
+    <img src="https://img.shields.io/badge/AURA%20--%20NOMBRE_DEL_AUTOR-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="AURA - Nombre del autor"/>
   </a>
 </div>
-
 
 ## 🔥 Racha de contribuciones
 
