@@ -25,12 +25,15 @@
 
 ---
 ### 💖 Sponsoring
-<img src="https://github.com/midudev.png" width="40" style="border-radius:50%"/> **midudev**
-<br clear="left"/>
+<table><tr>
+<td><img src="https://github.com/midudev.png" width="40" style="border-radius:50%"/></td>
+<td valign="middle"><b>midudev</b></td>
+<td width="20"></td>
+<td><img src="https://github.com/nodejs.png" width="40" style="border-radius:50%"/></td>
+<td valign="middle"><b>Node.js</b></td>
+</tr></table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfee.gif" width="200">
-</div>
+
 
 <div align="center">
   <a href="mailto:ignacioperezolavarria@gmail.com" target="_blank">
