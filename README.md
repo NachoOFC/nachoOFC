@@ -11,29 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=NachoOFC&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views" />
 </div>
 
----
-## <div align="center">🌟 Bienvenido a mi perfil gitHub 🌟</div>
-
-
-| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png" width="300"/> | ### Sobre mí <3 <br/><br/> Hola!!! Soy **Ignacio Andrés Pérez Olavarría**, un apasionado desarrollador de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de **Ingeniería en Informática del Instituto Profesional Santo Tomás**, actualmente trabajo en **Puerto Montt** para **AST Networks** como programador para el área i+d+i: investigación desarrollo e innovación. <br/><br/> Mi lenguaje de programación favorito es Python. Puedes visitar mi [portafolio](https://nachoportafolio.me/) o mi [blog](https://nachoblog.hashnode.dev/). |
-|:---:|---|
-
----
-
-| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/feliz.png" width="300"/> | <br/><br/> Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **ingeniero informático **. Mi especialidad está en **Vue.js, Nuxt y PostgreSQL**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en GitHub**,Puedes hacer fork a mis repos si deseas y colaborar, Y Si te gusta mi trabajo, ¡déjame una ⭐ en este repositorio!. |
-|---|---|
-
----
-### 💖 Sponsoring
-<table><tr>
-<td><img src="https://github.com/midudev.png" width="40" style="border-radius:50%"/></td>
-<td valign="middle"><b>midudev</b></td>
-<td width="20"></td>
-<td><img src="https://github.com/nodejs.png" width="40" style="border-radius:50%"/></td>
-<td valign="middle"><b>Node.js</b></td>
-</tr></table>
-
-
 
 <div align="center">
   <a href="mailto:ignacioperezolavarria@gmail.com" target="_blank">
@@ -52,8 +29,31 @@
   <img src="https://img.shields.io/badge/-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
   </a>
 </div>
-
 <br clear="right"/>
+
+---
+## <div align="center">🌟 Bienvenido a mi perfil gitHub 🌟</div>
+
+
+| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/nachoanimado.png" width="300"/> | ### Sobre mí <3 <br/><br/> Hola!!! Soy **Ignacio Andrés Pérez Olavarría**, un apasionado desarrollador de 23 años, desde las hermosas tierras de **Puerto Varas, Chile** 🇨🇱. Titulado de **Ingeniería en Informática del Instituto Profesional Santo Tomás**, actualmente trabajo en **Puerto Montt** para **AST Networks** como programador para el área i+d+i: investigación desarrollo e innovación. <br/><br/> Mi lenguaje de programación favorito es Python. Puedes visitar mi [portafolio](https://nachoportafolio.me/) o mi [blog](https://nachoblog.hashnode.dev/). |
+|:---:|---|
+
+---
+
+| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/feliz.png" width="300"/> | <br/><br/> Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **ingeniero informático **. Mi especialidad está en **Vue.js, Nuxt y PostgreSQL**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en GitHub**,Puedes hacer fork a mis repos si deseas y colaborar, Y Si te gusta mi trabajo, ¡déjame una ⭐ en este repositorio!. |
+|---|---|
+
+---
+### <div align="center"> 💖 Sponsoring
+<div align="center">
+<table><tr>
+<td><img src="https://github.com/midudev.png" width="40" style="border-radius:50%"/></td>
+<td valign="middle"><b>midudev</b></td>
+<td width="20"></td>
+<td><img src="https://github.com/nodejs.png" width="40" style="border-radius:50%"/></td>
+<td valign="middle"><b>Node.js</b></td>
+</tr></table>
+</div>
 
 ---
 
