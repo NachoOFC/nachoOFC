@@ -40,7 +40,7 @@
 
 ---
 
-| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/feliz.png" width="300"/> | <br/><br/> Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **ingeniero informático **. Mi especialidad está en **Vue.js, Nuxt y PostgreSQL**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en GitHub**,Puedes hacer fork a mis repos si deseas y colaborar, Y Si te gusta mi trabajo, ¡déjame una ⭐ en este repositorio!. | <br/><br/> quieres colaborar en algun proyecto?? avisame hare un repositorio para hablarlo
+| <img src="https://raw.githubusercontent.com/NachoOFC/nachoOFC/main/images/feliz.png" width="300"/> | <br/><br/> Mi historia comenzó con una simple curiosidad por entender cómo funcionan las cosas, y hoy ya soy **ingeniero informático **. Mi especialidad está en **Vue.js, Nuxt y PostgreSQL**, tecnologías que me permiten crear experiencias web fluidas y dinámicas. **Me considero experto en GitHub**,Puedes hacer fork a mis repos si deseas y colaborar, Y Si te gusta mi trabajo, ¡déjame una ⭐ en este repositorio!. <br/><br/> quieres colaborar en algun proyecto?? avisame hare un repositorio para hablarlo | 
 |---|---|
 
 ---
