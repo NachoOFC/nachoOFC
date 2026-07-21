@@ -10,11 +10,12 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNachoOFC&query=%24.followers&style=for-the-badge&color=00bfff&label=Followers" />
   <img src="https://komarev.com/ghpvc/?username=NachoOFC&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views" />
 </div>
-<div align="center"> 
-  <a href="https://github.com/settings/profile#github-developer-program" target="_blank"> 
-  <img src="https://img.shields.io/badge/-Developer%20Program%20Member-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Developer Program Member"/> </a>
+<div align="center">
+  <a href="https://github.com/settings/profile#github-developer-program" target="_blank">
+    <img src="https://img.shields.io/badge/-Developer%20Program%20Member-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Developer Program Member"/>
+  </a>
+  <img src="https://img.shields.io/badge/-Pro-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Pro"/>
 </div>
-
 
 
 <div align="center">
