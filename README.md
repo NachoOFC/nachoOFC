@@ -5,9 +5,13 @@
 <div align="center">
   <img src="https://github.com/NachoOFC/nachoOFC/blob/main/images/yo.jpg" alt="Ignacio Pérez" width="200" style="border-radius: 50%; border: 8px solid #ff6b35; box-shadow: 0 0 40px #ff6b35, 0 0 80px #ff3d00; animation: glow 2s ease-in-out infinite alternate;">
 </div>
+
 <div align="center">
-  <img src="https://img.shields.io/github/followers/NachoOFC?style=for-the-badge&color=00bfff&labelColor=0d1117&label=Followers" />
-  <img src="https://komarev.com/ghpvc/?username=NachoOFC&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=NachoOFC&color=F28C52&style=flat-square&label=Profile+Views)](https://github.com/NachoOFC)
+[![GitHub followers](https://img.shields.io/github/followers/NachoOFC?label=Followers&style=flat-square&color=F28C52&labelColor=1E293B)](https://github.com/NachoOFC?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/NachoOFC?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total+Stars&color=F28C52&labelColor=1E293B)](https://github.com/NachoOFC)
+
 </div>
 <div align="center">
   <a href="https://github.com/settings/profile#github-developer-program" target="_blank">
