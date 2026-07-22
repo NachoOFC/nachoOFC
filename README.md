@@ -5,9 +5,8 @@
 <div align="center">
   <img src="https://github.com/NachoOFC/nachoOFC/blob/main/images/yo.jpg" alt="Ignacio Pérez" width="200" style="border-radius: 50%; border: 8px solid #ff6b35; box-shadow: 0 0 40px #ff6b35, 0 0 80px #ff3d00; animation: glow 2s ease-in-out infinite alternate;">
 </div>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNachoOFC&query=%24.followers&style=for-the-badge&color=00bfff&label=Followers" />
+  <img src="https://img.shields.io/github/followers/NachoOFC?style=for-the-badge&color=00bfff&labelColor=0d1117&label=Followers" />
   <img src="https://komarev.com/ghpvc/?username=NachoOFC&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views" />
 </div>
 <div align="center">
