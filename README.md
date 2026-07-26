@@ -63,7 +63,7 @@
 <td valign="middle"><b>Node.js</b></td>
 <td width="20"></td>
 <td><img src="https://avatars.githubusercontent.com/u/183181665?v=4" width="40" style="border-radius:50%"/></td>
-<td valign="middle"><b>ema28pro</b></td>
+<td valign="middle"><b>emanuel</b></td>
 </tr></table>
 </div>
 
