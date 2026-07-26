@@ -115,20 +115,14 @@
 ---
 ## <div align="center">💼 Trayectoria Profesional</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="120" />
-  <img src="https://skillicons.dev/icons?i=nuxt&theme=dark" width="100" />
-</div>
-
 <br>
 
-### 🔥 Experiencia Profesional
-- **🏢 Empresa:** VOID IT SOLUTIONS SPA (Enero 2025 - Mayo 2025)
-- **📍 Modalidad:** Remoto desde Puerto Montt, Chile
-- **🛠️ Stack Tecnológico:** Vue.js + Nuxt + GraphQL + Hasura
-- **👥 Metodología:** Desarrollo Scrum (Por Sprints)
-- **🎯 Enfoque:** Desarrollo de Componentes, Integración de APIs, Documentación
+| Empresa | Rol & Detalles | Tech Stack |
+| :--- | :--- | :--- |
+| **AST Networks** <br> *(Junio 2026 - Presente)* | **📍 Modalidad:** Presencial (Puerto Montt, Chile) <br> **👥 Área:** I+D+i (Investigación, Desarrollo e Innovación) <br> **🎯 Enfoque:** Web Scraping con Node.js, desarrollo Full Stack (Frontend & Backend) y consumo de APIs REST. | <img src="https://skillicons.dev/icons?i=nodejs,js,vue,python,postgres&theme=dark&perline=2" /> |
+| **VOID IT SOLUTIONS SPA** <br> *(Enero 2025 - Mayo 2025)* | **📍 Modalidad:** Remoto desde Puerto Montt, Chile <br> **👥 Metodología:** Scrum (Por Sprints) <br> **🎯 Enfoque:** Desarrollo de componentes, integración de APIs y documentación. | <img src="https://skillicons.dev/icons?i=vue,nuxt,graphql&theme=dark&perline=2" /> |
+
+---
 
 ---
 ### 💜 Lenguaje Favorito
