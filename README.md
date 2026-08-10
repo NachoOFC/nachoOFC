@@ -169,6 +169,9 @@
 | 🌙 **Landing Page** | Landing page colaborativa enfocada en mostrar servicios y soluciones web. | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) | [🔗 Visitar](https://moon-systems.netlify.app/) |
 | ❤️ **APIs Chile** | Listado curado y actualizado de APIs públicas de servicios gubernamentales y privados en Chile para desarrolladores. | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown) | [💻 Repo](https://github.com/NachoOFC/Apis-Chile) |
 | 🕸️ **Scraping Playground** | Sandbox web sin bloqueos para practicar web scraping con BeautifulSoup, Puppeteer, Selenium o Playwright. 3 niveles de dificultad. | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) | [💻 Repo](https://github.com/NachoOFC/scraping-playground) \| [🔗 Demo](https://nachoofc.github.io/scraping-playground/) |
+| 🏆 **Top GitHub Users Chile** | Ranking actualizado de los usuarios con más seguidores de GitHub en Chile. | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown) | [💻 Repo](https://github.com/NachoOFC/top-github-users-chile) |
+| 📊 **Top Followers** | Herramienta para consultar y comparar el top de seguidores de GitHub. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) | [💻 Repo](https://github.com/NachoOFC/top-followers) |
+| 🐳 **Docker** | Configuraciones y proyectos de práctica con Docker y contenedores. | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | [💻 Repo](https://github.com/NachoOFC/docker) |
 
 ---
 
