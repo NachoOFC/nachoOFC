@@ -3,18 +3,17 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/NachoOFC/nachoOFC/blob/main/images/yo.jpg" alt="Ignacio Pérez" width="200" style="border-radius: 50%; border: 8px solid #ff6b35; box-shadow: 0 0 40px #ff6b35, 0 0 80px #ff3d00; animation: glow 2s ease-in-out infinite alternate;">
+  <img src="https://github.com/NachoOFC/nachoOFC/blob/main/images/yo.jpg" alt="Ignacio Pérez" width="200" style="border-radius: 50%; border: 8px solid #3B82F6; box-shadow: 0 0 40px #3B82F6, 0 0 80px #2563EB; animation: glow 2s ease-in-out infinite alternate;">
 </div>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=NachoOFC&color=F28C52&style=flat-square&label=Profile+Views)](https://github.com/NachoOFC)
-[![GitHub followers](https://img.shields.io/github/followers/NachoOFC?label=Followers&style=flat-square&color=F28C52&labelColor=1E293B)](https://github.com/NachoOFC?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/NachoOFC?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total+Stars&color=F28C52&labelColor=1E293B)](https://github.com/NachoOFC)
-<div align="center">
-  <img src="https://img.shields.io/badge/🏆_Top%201-Seguidores%20GitHub%20Chile-F28C52?style=for-the-badge&labelColor=1E293B" alt="Top 1 Seguidores Chile"/>
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=NachoOFC&color=3B82F6&style=flat-square&label=Profile+Views)](https://github.com/NachoOFC)
+[![GitHub followers](https://img.shields.io/github/followers/NachoOFC?label=Followers&style=flat-square&color=3B82F6&labelColor=1E293B)](https://github.com/NachoOFC?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/NachoOFC?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total+Stars&color=3B82F6&labelColor=1E293B)](https://github.com/NachoOFC)
+[![Top 1 Chile](https://img.shields.io/badge/🏆FOLLOWERS_%231-Chile-3B82F6?style=flat-square&labelColor=1E293B)](https://github.com/NachoOFC/top-github-users-chile/blob/main/markdown/followers/chile.md)
 
+</div>
 </div>
 <div align="center">
   <a href="https://github.com/settings/profile#github-developer-program" target="_blank">
