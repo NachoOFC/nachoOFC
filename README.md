@@ -16,6 +16,7 @@
 </div>
 </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/-En%GitHub%20desde%202022-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub since"/>
   <a href="https://github.com/settings/profile#github-developer-program" target="_blank">
     <img src="https://img.shields.io/badge/-Developer%20Program%20Member-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Developer Program Member"/>
   </a>
