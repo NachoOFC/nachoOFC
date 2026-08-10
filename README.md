@@ -150,9 +150,8 @@
 ## 🔥 Racha de contribuciones 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NachoOFC&locale=es&theme=tokyonight&date_format=j%20M%5B%20Y%5D&dates=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&no-cache=true" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com?user=NachoOFC&locale=es&theme=tokyonight&date_format=j%20M%5B%20Y%5D&dates=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&count_private=true&v=2" alt="Racha de contribuciones" />
 </div>
-
 ---
 
 ## <div align="center">⭐ Proyectos Destacados</div>
