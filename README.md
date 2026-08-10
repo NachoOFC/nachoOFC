@@ -158,7 +158,7 @@
 
 ## <div align="center">⭐ Proyectos Destacados</div>
 
-| Proyecto | Descripción | Tech Stack | Links |
+| Proyecto | Descripción | Stack | Links |
 |----------|-------------|-----------|-------|
 | 🎯 **Sistema de Monitoreo de Activos** | Plataforma web orientada al monitoreo y gestión de activos con generación de alertas y reportes en tiempo real. | ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) | [🔗 Demo](https://smtr-web.netlify.app/principal) \| [📝 Blog](https://nachoblog.hashnode.dev/smtr-construyendo-un-sistema-de-monitoreo-electrico-en-tiempo-real) |
 | 🎮 **Mini Juegos** | Colección de mini juegos web interactivos incluyendo el juego del gato y ahorcado. | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) | [🔗 Jugar](https://mini-juegos.netlify.app/) \| [📝 Blog](https://nachoblog.hashnode.dev/mini-juegos) |
