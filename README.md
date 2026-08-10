@@ -20,7 +20,7 @@
   <a href="https://github.com/settings/profile#github-developer-program" target="_blank">
     <img src="https://img.shields.io/badge/-Developer%20Program%20Member-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Developer Program Member"/>
   </a>
-  <img src="https://img.shields.io/badge/-Pro-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Pro"/>
+  <img src="https://img.shields.io/badge/-Pro-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro"/>
 </div>
 
 
