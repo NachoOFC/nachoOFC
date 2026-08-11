@@ -148,7 +148,6 @@
 </div>
 
 ## 🔥 Racha de contribuciones 
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NachoOFC&locale=es&theme=tokyonight&date_format=j%20M%5B%20Y%5D&dates=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80" alt="Racha de contribuciones" />
 </div>
