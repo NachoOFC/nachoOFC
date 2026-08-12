@@ -170,7 +170,7 @@
 | 🏆 **Top GitHub Users Chile** | Ranking actualizado de los usuarios con más seguidores de GitHub en Chile. | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown) | [💻 Repo](https://github.com/NachoOFC/top-github-users-chile) |
 | 📊 **Top Followers** | Herramienta para consultar y comparar el top de seguidores de GitHub. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) | [💻 Repo](https://github.com/NachoOFC/top-followers) |
 | 🐳 **Docker** | Configuraciones y proyectos de práctica con Docker y contenedores. | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | [💻 Repo](https://github.com/NachoOFC/docker) |
-| 📈 **Simulador Interés Compuesto CL** | Simulador web de interés compuesto con capitalización diaria para cuentas digitales y fintechs chilenas (Mercado Pago, MACH y más). | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) | [💻 Repo](https://github.com/NachoOFC/simulador-interes-compuesto) \| [🔗 Demo](https://nachoofc.github.io/simulador-interes-compuesto/) |
+| 📈 **Simulador Interés Compuesto CL** | Simulador web de interés compuesto con capitalización diaria para cuentas digitales y fintechs chilenas (Mercado Pago, MACH y más). | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown) | [💻 Repo](https://github.com/NachoOFC/simulador-interes-compuesto) \| [🔗 Demo](https://nachoofc.github.io/simulador-interes-compuesto/) |
 
 ---
 
