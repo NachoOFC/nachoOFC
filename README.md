@@ -172,6 +172,8 @@
 | 🐳 **Docker** | Configuraciones y proyectos de práctica con Docker y contenedores. | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | [💻 Repo](https://github.com/NachoOFC/docker) |
 | 📈 **Simulador Interés Compuesto CL** | Simulador web de interés compuesto con capitalización diaria para cuentas digitales y fintechs chilenas (Mercado Pago, MACH y más). | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown) | [💻 Repo](https://github.com/NachoOFC/simulador-interes-compuesto) \| [🔗 Demo](https://nachoofc.github.io/simulador-interes-compuesto/) | 
 | 🛠️ **Git Commands** | Guía de referencia rápida con los comandos de Git más utilizados en el desarrollo de software, ordenados desde lo más básico hasta avanzado. | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | [💻 Repo](https://github.com/NachoOFC/git-commands) |
+| 🐧 **Linux Commands** | Guía de referencia rápida con comandos esenciales de Linux para la terminal y configuración de conexiones SSH con Termius. | ![Linux](https://shields.io) | [💻 Repo](https://github.com) |
+
 
 
 ---
