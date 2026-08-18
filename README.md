@@ -154,6 +154,14 @@
 </div>
 ---
 
+## <div align="center">🧩 Mis Productos</div>
+
+| Producto | Descripción | Stack | Links |
+|----------|-------------|-----------|-------|
+| 🆔 **RUTCL** | Librería en Python para validar, formatear y calcular el RUT chileno, sin dependencias externas. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white) | [📦 PyPI](https://pypi.org/project/rutcl/) \| [💻 Repo](https://github.com/NachoOFC/RUTCL) |
+| 🚀 **Code Motivator** | Extensión de VS Code que te mantiene motivado mientras programas: mensajes inspiradores, contador de líneas en vivo y celebración de logros cada 50 líneas. | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | [🧩 Marketplace](https://marketplace.visualstudio.com/items?itemName=nacho-ofc.code-motivator) |
+| 🖼️ **Image Tracker** | Extensión de VS Code para llevar seguimiento de referencias de imágenes en tus proyectos. *(🚧 En desarrollo)* | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | 🚧 Próximamente |
+
 ## <div align="center">⭐ Proyectos Destacados</div>
 
 | Proyecto | Descripción | Stack | Links |
