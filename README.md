@@ -74,10 +74,9 @@
 
 ## <div align="center">🛠️ Arsenal Tecnológico</div>
 
-
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### 🎨 Frontend
 <div align="center">
@@ -88,7 +87,7 @@
 </div>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### ⚙️ Backend Power
 <div align="center">
@@ -99,19 +98,20 @@
 </div>
 
 </td>
-</tr>
-</table>
-
-<div align="center">
+<td align="center" width="33%">
 
 ### 🚀 Herramientas de Desarrollo
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+  <img src="https://skillicons.dev/icons?i=vscode" width="80" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,netlify&theme=dark&perline=5" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" style="margin-left: 8px; vertical-align: middle;" />
 </div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
