@@ -128,7 +128,7 @@
 ---
 
 ---
-### 💜 Lenguaje Favorito
+### 💜 Mi Lenguaje Favorito
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
