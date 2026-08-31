@@ -127,18 +127,6 @@
 | **VOID IT SOLUTIONS SPA** <br> *(Enero 2025 - Mayo 2025)* | **📍 Modalidad:** Remoto desde Puerto Montt, Chile <br> **👥 Metodología:** Scrum (Por Sprints) <br> **🎯 Enfoque:** Desarrollo de componentes, integración de APIs y documentación. | <img src="https://skillicons.dev/icons?i=vue,nuxt,graphql,github&theme=dark&perline=2" /> |
 
 ---
-
-Desarrollé un Sistema Web de Logística y Abastecimiento, el cual fue bien evaluado, permitiéndome aplicar lo aprendido y seguir fortaleciendo mis habilidades en el desarrollo de sistemas.
-
----
-
-Desarrollé un Sistema Web de Logística y Abastecimiento, el cual fue bien evaluado, permitiéndome aplicar lo aprendido y seguir fortaleciendo mis habilidades en el desarrollo de sistemas.
----
-
-Desarrollé un Sistema Web de Logística y Abastecimiento, el cual fue bien evaluado, permitiéndome aplicar lo aprendido y seguir fortaleciendo mis habilidades en el desarrollo de sistemas.
----
-
----
 ### 💜 Mi Lenguaje Favorito
 
 <div align="center">
