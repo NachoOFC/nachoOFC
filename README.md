@@ -127,7 +127,7 @@
 | **VOID IT SOLUTIONS SPA** <br> *(Enero 2025 - Mayo 2025)* | **📍 Modalidad:** Remoto desde Puerto Montt, Chile <br> **👥 Metodología:** Scrum (Por Sprints) <br> **🎯 Enfoque:** Desarrollo de componentes, integración de APIs y documentación. | <img src="https://skillicons.dev/icons?i=vue,nuxt,graphql,github&theme=dark&perline=2" /> |
 
 ---
-### 💜 Mi Lenguaje Favorito
+### <div align="center"> 💜 Mi Lenguaje Favorito </div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
@@ -146,7 +146,7 @@
   </a>
 </div>
 
-## 🔥 Racha de contribuciones 
+## <div align="center"🔥 Racha de contribuciones </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NachoOFC&locale=es&theme=tokyonight&dates=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80" alt="Racha de contribuciones" />
