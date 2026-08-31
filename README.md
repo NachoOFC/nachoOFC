@@ -146,7 +146,7 @@
   </a>
 </div>
 
-## <div align="center"🔥 Racha de contribuciones </div>
+## <div align="center">🔥 Racha de contribuciones </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NachoOFC&locale=es&theme=tokyonight&dates=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80" alt="Racha de contribuciones" />
