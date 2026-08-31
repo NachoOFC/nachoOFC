@@ -116,8 +116,6 @@
 </div>
 
 ---
-
-
 ## <div align="center">💼 Trayectoria Profesional</div>
 
 <br>
@@ -125,8 +123,12 @@
 | Empresa | Rol & Detalles | Tech Stack |
 | :--- | :--- | :--- |
 | **AST Networks** <br> *(Junio 2026 - Presente)* | **📍 Modalidad:** Presencial (Puerto Montt, Chile) <br> **👥 Área:** I+D+i (Investigación, Desarrollo e Innovación) <br> **🎯 Enfoque:** Web Scraping con Node.js, desarrollo Full Stack (Frontend & Backend) y consumo de APIs REST. | <img src="https://skillicons.dev/icons?i=nodejs,js,react,docker,python,postgres&theme=dark&perline=2" /> |
-| **MLINE SPA** <br> *(Septiembre 2025 - Octubre 2025)* | **📍 Modalidad:** Práctica Profesional <br> **🎯 Proyecto:** DisproDEV — Mantenimiento, actualización y modernización de un sistema web empresarial existente (Sistema de Logística y Abastecimiento). <br> **🔧 Tareas:** Migración desde PHP/Laravel legacy, modularización del código, integración frontend-backend vía API RESTful. | <img src="https://skillicons.dev/icons?i=laravel,vue,nuxt,mariadb,php&theme=dark&perline=2" /> |
+| **MLINE SPA** <br> *(Septiembre 2025 - Octubre 2025)* | **📍 Modalidad:** Práctica Profesional <br> **🎯 Proyecto:** DisproDEV — Mantenimiento, actualización y modernización de un sistema web empresarial existente (Sistema de Logística y Abastecimiento). <br> **🔧 Tareas:** Migración desde PHP/Laravel legacy, modularización del código, integración frontend-backend vía API RESTful. | <img src="https://skillicons.dev/icons?i=laravel,vue,nuxt,mysql,php&theme=dark&perline=2" /> |
 | **VOID IT SOLUTIONS SPA** <br> *(Enero 2025 - Mayo 2025)* | **📍 Modalidad:** Remoto desde Puerto Montt, Chile <br> **👥 Metodología:** Scrum (Por Sprints) <br> **🎯 Enfoque:** Desarrollo de componentes, integración de APIs y documentación. | <img src="https://skillicons.dev/icons?i=vue,nuxt,graphql,github&theme=dark&perline=2" /> |
+
+---
+
+Desarrollé un Sistema Web de Logística y Abastecimiento, el cual fue bien evaluado, permitiéndome aplicar lo aprendido y seguir fortaleciendo mis habilidades en el desarrollo de sistemas.
 
 ---
 
