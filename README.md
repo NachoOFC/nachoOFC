@@ -94,7 +94,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,firebase,graphql,java&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgresql,mysql,firebase,graphql,java&theme=dark&perline=3" />
 </div>
 
 </td>
