@@ -56,7 +56,7 @@
 
 ---
 
-### <div align="center"> 💖 Sponsoring / Patrocinio
+### <div align="center"> 💖 Sponsoring / Patrocinio 💖
 <div align="center">
 <table><tr>
 <td><img src="https://github.com/midudev.png" width="40" style="border-radius:50%"/></td>
